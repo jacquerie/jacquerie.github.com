@@ -1,0 +1,20 @@
+body {
+    font-size: 16px;
+    line-height: 1.75;
+}
+
+.container {
+    max-width: 600px;
+}
+
+.project {
+    margin-bottom: 32px;
+}
+
+.project:last-of-type {
+    margin-bottom: 0;
+}
+
+.signature {
+    text-align: center;
+}
